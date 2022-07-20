@@ -1,0 +1,11 @@
+,customer,location,timestamp
+0,4690,fruit,16:24:04
+1,4690,dairy,16:27:04
+2,4690,checkout,16:29:04
+3,3523,drinks,16:33:04
+4,3523,spices,16:35:04
+5,3523,checkout,16:38:04
+6,4745,fruit,16:40:04
+7,4745,checkout,16:44:04
+8,1698,drinks,16:47:04
+9,1698,exit,16:50:04
